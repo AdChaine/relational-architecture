@@ -20,7 +20,7 @@ A partir du code source d'un projet, ce skill :
 ## Installation
 
 ```bash
-npx skills add AdSim-SRL/relational-architecture
+npx skills add AdChaine/relational-architecture
 ```
 
 ## Utilisation
